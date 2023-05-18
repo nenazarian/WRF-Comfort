@@ -1,0 +1,7 @@
+ ! NOAA/PMEL TMAP
+ ! FERRET v7.5 (optimized)
+ ! Linux 3.10.0-957.10.1.el7.x86_64 64-bit - 04/25/19
+ !  7-Dec-22 23:34     
+
+use utci_bc
+exit
